@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "bj-covid19",
-    "slug": "bj-covid19",
+    "name": "bjcovid19",
+    "slug": "covid19",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "sdkVersion": "41.0.0",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
